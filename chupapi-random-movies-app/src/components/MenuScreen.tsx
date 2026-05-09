@@ -59,7 +59,7 @@ export const MenuScreen = ({
       <div className="menu-content">
         <div className="hero-lockup">
           <span className="eyebrow">Juego de mimica</span>
-          <h1 className="menu-title">Tipo de recomendacion</h1>
+          <h1 className="menu-title">Elegi como jugar</h1>
           <p className="menu-subtitle">Elegi el mazo, el idioma de los titulos y que alguien actue sin hablar.</p>
         </div>
 
