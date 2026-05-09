@@ -18,7 +18,7 @@ export const MediaControls = ({
             <h2 id="controls-title">Configuración</h2>
 
             <label className="field-label" htmlFor="media-filter">
-                Tipo de recomendación
+                Elegi como jugar
             </label>
 
             <select
