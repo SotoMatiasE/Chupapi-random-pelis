@@ -112,6 +112,17 @@ export const MenuScreen = ({
         <button className="play-button" type="button" onClick={onStartGame}>
           Jugar
         </button>
+
+        <a
+          className="creator-link"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=matiasezeqsoto@gmail.com"
+          target="_blank"
+          rel="noreferrer"
+          aria-label="Contactar a Matias Soto por Gmail"
+        >
+          <span className="creator-help" aria-hidden="true">?</span>
+          <span>Hecho por Matias Soto</span>
+        </a>
       </div>
     </section>
   );
