@@ -7,7 +7,7 @@ export const AppHeader = ({ totalSpins }: AppHeaderProps) => {
         <header className="app-header">
             <div>
                 <span className="app-brand-kicker">Chupapi</span>
-                <h1>Movie Mime</h1>
+                <h1>Mimica Chupapi</h1>
             </div>
 
             <div className="counter-card" aria-label={`Cantidad de tiradas: ${totalSpins}`}>
